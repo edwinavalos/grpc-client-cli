@@ -1,0 +1,5 @@
+endpoints:
+  - address: "localhost"
+    port: 8081
+  - address: "localhost"
+    port: 8082
